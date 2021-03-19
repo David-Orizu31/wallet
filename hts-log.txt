@@ -1,0 +1,68 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 19 Mar 2021 23:19:25 at http://fastwayservices.co/tracking.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://fastwayservices.co/tracking.php -O1 "C:\fastway-php\Fastway-php" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:20:03	Error: 	"Not Found" (404) at link https://www.aramex.com.au/Fastway-icon-72x72.png (from fastwayservices.co/tracking.php)
+23:20:03	Error: 	"Not Found" (404) at link https://www.aramex.com.au/Fastway-icon-144x144.png (from fastwayservices.co/tracking.php)
+23:22:07	Warning: 	Retry after error 500 (Internal Server Error) at link fastwayservices.co/faq.php (from fastwayservices.co/tracking.php)
+23:22:19	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from fastwayservices.co/tracking.php)
+23:22:19	Error: 	"Not Found" (404) at link fastwayservices.co/tracking_files/track.js.download (from fastwayservices.co/tracking.php)
+23:23:04	Error: 	"Not Found" (404) at link https://www.aramex.com.au/media/1424/homepagebannerdeliveringgoods.jpg (from fastwayservices.co/index.php)
+23:23:12	Error: 	"Not Found" (404) at link fastwayservices.co/address-locator-api/?callback=? (from fastwayservices.co/index.php)
+23:24:23	Warning: 	Retry after error 500 (Internal Server Error) at link fastwayservices.co/faq.php (from fastwayservices.co/tracking.php)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/fonts/glyphicons-halflings-regular.eot (from fastwayservices.co/tracking_files/bootstrap.min.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/fonts/glyphicons-halflings-regular.eot? (from fastwayservices.co/tracking_files/bootstrap.min.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/fonts/glyphicons-halflings-regular.woff2 (from fastwayservices.co/tracking_files/bootstrap.min.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/fonts/glyphicons-halflings-regular.woff (from fastwayservices.co/tracking_files/bootstrap.min.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/fonts/glyphicons-halflings-regular.ttf (from fastwayservices.co/tracking_files/bootstrap.min.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/fonts/glyphicons-halflings-regular.svg (from fastwayservices.co/tracking_files/bootstrap.min.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/css/fonts/fastway-light-webfont.woff2 (from fastwayservices.co/tracking_files/fastway.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/css/fonts/fastway-light-webfont.woff (from fastwayservices.co/tracking_files/fastway.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/css/fonts/fastway-regular-webfont.eot (from fastwayservices.co/tracking_files/fastway.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/css/fonts/fastway-regular-webfont.eot? (from fastwayservices.co/tracking_files/fastway.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/css/fonts/fastway-regular-webfont.woff2 (from fastwayservices.co/tracking_files/fastway.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/css/fonts/fastway-regular-webfont.woff (from fastwayservices.co/tracking_files/fastway.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/css/fonts/fastway-regular-webfont.ttf (from fastwayservices.co/tracking_files/fastway.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/css/fonts/fastway-regular-webfont.svg (from fastwayservices.co/tracking_files/fastway.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/css/fonts/fontawesome-webfont.eot?v=4.6.3 (from fastwayservices.co/tracking_files/font-awesome.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/css/fonts/fontawesome-webfont.eot? (from fastwayservices.co/tracking_files/font-awesome.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/css/fonts/fontawesome-webfont.woff2?v=4.6.3 (from fastwayservices.co/tracking_files/font-awesome.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/css/fonts/fontawesome-webfont.woff?v=4.6.3 (from fastwayservices.co/tracking_files/font-awesome.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/css/fonts/fontawesome-webfont.ttf?v=4.6.3 (from fastwayservices.co/tracking_files/font-awesome.css)
+23:24:24	Error: 	"Not Found" (404) at link fastwayservices.co/css/fonts/fontawesome-webfont.svg?v=4.6.3 (from fastwayservices.co/tracking_files/font-awesome.css)
+23:26:03	Error: 	Exit requested by shell or user
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/POST (from https://connect.facebook.net/en_US/fbevents.js)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/index_files/www.google-analytics.com/gtm.js (from fastwayservices.co/index_files/js)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/a (from fastwayservices.co/index_files/jquery.min.js(1).download)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/index_files/images/ui-bg_highlight-soft_100_eeeeee_1x100.png (from fastwayservices.co/index_files/jquery-ui.css)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/index_files/images/ui-bg_gloss-wave_35_f6a828_500x100.png (from fastwayservices.co/index_files/jquery-ui.css)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/index_files/images/ui-bg_glass_100_f6f6f6_1x400.png (from fastwayservices.co/index_files/jquery-ui.css)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/index_files/images/ui-bg_glass_100_fdf5ce_1x400.png (from fastwayservices.co/index_files/jquery-ui.css)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/index_files/images/ui-bg_glass_65_ffffff_1x400.png (from fastwayservices.co/index_files/jquery-ui.css)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/index_files/images/ui-bg_highlight-soft_75_ffe45c_1x100.png (from fastwayservices.co/index_files/jquery-ui.css)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/index_files/images/ui-bg_diagonals-thick_18_b81900_40x40.png (from fastwayservices.co/index_files/jquery-ui.css)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/index_files/images/ui-icons_222222_256x240.png (from fastwayservices.co/index_files/jquery-ui.css)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/index_files/images/ui-icons_ffffff_256x240.png (from fastwayservices.co/index_files/jquery-ui.css)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/index_files/images/ui-icons_ef8c08_256x240.png (from fastwayservices.co/index_files/jquery-ui.css)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/index_files/images/ui-icons_228ef1_256x240.png (from fastwayservices.co/index_files/jquery-ui.css)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/index_files/images/ui-icons_ffd27a_256x240.png (from fastwayservices.co/index_files/jquery-ui.css)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/index_files/images/ui-bg_diagonals-thick_20_666666_40x40.png (from fastwayservices.co/index_files/jquery-ui.css)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/index_files/images/ui-bg_flat_10_000000_40x100.png (from fastwayservices.co/index_files/jquery-ui.css)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/img/meh7.png (from fastwayservices.co/index_files/EswTwDVROPY.html)
+23:26:04	Warning: 	Retry after error -4 (No data (connection closed)) at link fastwayservices.co/yts/img/ringo/hitchhiker/logo_small_2x-vfl4_cFqn.png (from fastwayservices.co/index_files/EswTwDVROPY.html)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/yts/img/ringo/hitchhiker/logo_youtube_red_2x-vflOSHA_n.png (from fastwayservices.co/index_files/EswTwDVROPY.html)
+23:26:04	Error: 	"Not Found" (404) at link fastwayservices.co/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png (from fastwayservices.co/index_files/EswTwDVROPY.html)
+23:26:09	Error: 	Exit requested by shell or user
+23:26:09	Error: 	"" (-1) at link fastwayservices.co/index_files/base.js.download (from fastwayservices.co/index_files/EswTwDVROPY.html)
+23:26:09	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 44 seconds : 350 links scanned, 287 files written (9873990 bytes overall) [10768939 bytes received at 26655 bytes/sec], 268985 bytes transferred using HTTP compression in 4 files, ratio 21%, 3.6 requests per connection
+(50 errors, 3 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
